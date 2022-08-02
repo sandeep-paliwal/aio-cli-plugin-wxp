@@ -1,5 +1,6 @@
 {
-  "name": "@adobe/aio-cli-plugin-PLUGINNAME",
+  "name": "@adobe/aio-cli-plugin-wxp",
+  "description": "Create, Build, and Deploy WXP Apps",
   "version": "0.0.0",
   "dependencies": {
     "@adobe/aio-lib-core-config": "^2.0.0",
