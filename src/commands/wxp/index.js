@@ -1,5 +1,5 @@
 const { Help } = require('@oclif/core')
-const BaseCommand = require('../BaseCommand')
+const BaseCommand = require('../../BaseCommand')
 
 class IndexCommand extends BaseCommand {
   async run () {

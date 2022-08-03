@@ -11,7 +11,19 @@ $ aio wxp --help
 
 # Commands
 <!-- commands -->
+* [`aio wxp`](#aio-wxp)
 
+## `aio wxp`
+
+Create, Build, and Deploy WXP Apps
+
+```
+USAGE
+  $ aio wxp
+
+OPTIONS
+  -v, --verbose  Verbose output
+```
 <!-- commandsstop -->
 
 ## Contributing
